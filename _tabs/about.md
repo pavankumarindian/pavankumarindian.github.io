@@ -14,7 +14,7 @@ In my professional life, I specialize in building and maintaining robust CI/CD p
 
 - Implementing and optimizing DevOps practices.
 - Automating deployment and testing processes.
-- Managing cloud infrastructure using tools like Terraform, Ansible, Docker, Kubernetes.
+- Managing cloud infrastructure using tools like Terraform, Ansible, Docker, Kubernetes, Jenkins.
 - Monitoring and optimizing system performance.
 - Collaborating with cross-functional teams to foster a culture of continuous improvement.
 
